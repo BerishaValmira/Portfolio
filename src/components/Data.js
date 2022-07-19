@@ -4,19 +4,10 @@ export const Data = [
         path : '/',
         className : 'data-item'
     },
-    {
-        text : 'Works',
-        path : '/works',
-        className : 'data-item'
-    },
-    {
-        text : 'Gallery',
-        path : '/gallery',
-        className : 'data-item'
-    },
+  
     {
         text : 'Repositories',
-        path : '/repos',
+        path : '/project',
         className : 'data-item'
     },
 ]

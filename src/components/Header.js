@@ -14,22 +14,21 @@ const Header = () => {
         <div className='header'>
             <nav>
                 <div className='logo'>
-                    <h1>Starlabs   </h1>
+                   <a href='https://www.starlabs.dev/'> <h1>Starlabs   </h1></a>
                 </div>
                 <ul className='ul-items'>
                     <li>
-                        <Link to='#'>Home</Link>
+                        <Link to='/'>Home</Link>
                     </li>
                     <li>
-                        <Link to='#'>About</Link>
+                        <Link to='/about'>About</Link>
                     </li>
                     <li>
-                        <Link to='#'>Services</Link>
+                        <Link to='/skills'>Skills</Link>
                     </li>
-                    <li>
-                        <Link to='#'>Blog</Link>
-                    </li>   <li>
-                        <Link to='#'>Projects</Link>
+                  
+                     <li>
+                        <Link to='/project'>Projects</Link>
                     </li>
                    
 

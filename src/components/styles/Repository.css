@@ -1,0 +1,38 @@
+.portfolio-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 1rem;
+    padding: 150px;
+   
+   
+   
+}
+.portfolio_item:hover{
+
+}
+
+.portfolio_item-image{
+   padding: 1rem;
+   border-radius: 2rem;
+   border: 1px solid black;
+ 
+}
+a{
+    border: 50px;
+    text-decoration:none
+   
+}
+.btn{
+    margin: 30px;
+    padding: auto;
+    color: black;
+
+}
+.button{
+    border-radius: 3rem;
+    width: auto
+   
+}
+body{
+    background-color: rgb(216,216,216);
+}

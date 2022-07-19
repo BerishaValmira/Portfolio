@@ -1,6 +1,7 @@
 import React from 'react';
 import './styles/Second.css'
 import project from '../assets/project1.jpg'
+
 const Second = () => {
     return (
         <section className='section-2'>

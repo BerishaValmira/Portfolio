@@ -34,9 +34,10 @@ color: grey;
     margin-top: 2.4rem;
     padding: 14px 30px;
     cursor: pointer;
-    background-color: rgb(59, 55, 55);
-    color: #fff;
-    border: none;
+    background-color: rgb(216,216,216);
+    color: black;
+    border: 2px solid black;
     border-radius: 5px;
+   
 }
 
